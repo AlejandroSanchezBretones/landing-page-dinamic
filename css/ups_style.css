@@ -1,0 +1,35 @@
+.fondo{
+    width: 100vw;
+    height: 100vh;
+    background-color: #ffffff;
+
+}
+.centrado{
+    width: 50vw;
+    top: 50%;
+    left: 50%;
+    transform: translate(50%, 50%);
+}
+.boton_2{
+padding-left: 41vw;
+position: absolute;
+transform: translateY(-50vh);
+
+}
+.fondo_negro{
+    width: 18vw;
+    height: 3vw;
+    border-radius: 6px;
+    background-color: #2a2a2a;
+text-align: center; 
+  }
+  .copy_boton{
+    padding-top: 0.9vw;
+    font-size: 1vw;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: 0.34px;
+    color: #ffffff;
+  }
