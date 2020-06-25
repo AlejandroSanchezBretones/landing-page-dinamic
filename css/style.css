@@ -281,12 +281,12 @@ background-color: #2a2a2a;
 }
 
 .form{
-  outline-width: 0;
+  border-color: 2a2a2a;
   margin-top: 18vw;
   margin-left: 50vw;
   transform: translateX(-50%);
   z-index: 200;
-  width: 18vw;
+  width: 17.45vw;
   height: 3vw;
   border-radius: 6px;
 text-align: center; 
@@ -298,11 +298,10 @@ font-stretch: normal;
 font-style: normal;
 line-height: normal;
 letter-spacing: 0.14px;
-borde
 
 }
 .submit{
-
+border: none;
   outline-width: 0;
   margin-top: 1vw;
   margin-left: 50vw;
