@@ -76,22 +76,22 @@ position: absolute;
 display: flex;
 }
 .fondo_blanco{
-    width: 22vw;
-    height: 3.5vw;
+    width: 18vw;
+    height: 3vw;
     border-radius: 6px;
     background-color: #ffffff;
 text-align: center; 
   }
   .fondo_negro{
-    width: 22vw;
-    height: 3.5vw;
+    width: 18vw;
+    height: 3vw;
     border-radius: 6px;
     background-color: #2a2a2a;
 text-align: center; 
   }
 .borde_blanco{
-    width: 22vw;
-    height: 3.5vw;
+    width: 18vw;
+    height: 3vw;
     border-radius: 6px;
 text-align: center; 
 box-shadow: inset 0 0 0 1px #ffffff; 
@@ -105,6 +105,11 @@ box-shadow: inset 0 0 0 1px #ffffff;
   align-items: flex-end;
   width: 45vw;
 }
+.persona_3{
+  width: 20vw;
+  position: absolute;
+  transform: translateY(-14vw);
+padding-left: 20vw;}
 .composicion_1{
     padding-top: 13vw;
     padding-left: 48vw;
@@ -182,7 +187,7 @@ box-shadow: inset 0 0 0 1px #ffffff;
 }
 .copy_boton{
   padding-top: 0.9vw;
-  font-size: 1.2vw;
+  font-size: 1vw;
   font-weight: 600;
   font-stretch: normal;
   font-style: normal;
@@ -281,13 +286,13 @@ background-color: #2a2a2a;
   margin-left: 50vw;
   transform: translateX(-50%);
   z-index: 200;
-  width: 22vw;
-  height: 3.5vw;
+  width: 18vw;
+  height: 3vw;
   border-radius: 6px;
 text-align: center; 
 background-color: #ffffff;
 
-font-size: 1.2vw;
+font-size: 1vw;
 font-weight: 500;
 font-stretch: normal;
 font-style: normal;
@@ -302,14 +307,14 @@ letter-spacing: 0.14px;
   margin-left: 50vw;
   transform: translateX(-50%);
   z-index: 200;
-  width: 22vw;
-  height: 3.5vw;
+  width: 18vw;
+  height: 3vw;
   border-radius: 6px;
 text-align: center; 
 background-color: #2a2a2a;
   color: #ffffff;
 
-font-size: 1.2vw;
+font-size: 1vw;
 font-weight: 500;
 font-stretch: normal;
 font-style: normal;
