@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="328px" height="127px" viewBox="0 0 328 127" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Group 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="15.6167454%" x2="50%" y2="89.1036209%" id="linearGradient-1">
+            <stop stop-color="#F3EB99" offset="0%"></stop>
+            <stop stop-color="#E9DF6D" offset="100%"></stop>
+        </linearGradient>
+        <path d="M39.0497353,7.43764706 C39.0497353,11.5432282 42.3484425,14.8752941 46.412921,14.8752941 C72.8467579,14.8752941 94.2736285,36.5188471 94.2736285,63.22 C94.2736285,89.9211529 72.8467579,111.564706 46.412921,111.564706 C33.1960026,111.564706 21.2308257,106.153818 12.5717193,97.4034259 C9.69271365,94.4990247 5.03181707,94.4990247 2.15649303,97.4034259 C-0.71883101,100.311546 -0.71883101,105.019576 2.15649303,107.923978 C13.4847543,119.366798 29.1315241,126.44 46.412921,126.44 C80.9793966,126.44 109,98.1360341 109,63.22 C109,28.3039659 80.9793966,0 46.412921,0 C42.3484425,0 39.0497353,3.33206588 39.0497353,7.43764706 Z" id="path-2"></path>
+        <linearGradient x1="50%" y1="15.6167454%" x2="50%" y2="89.1036209%" id="linearGradient-4">
+            <stop stop-color="#8AD0E5" offset="0%"></stop>
+            <stop stop-color="#699FDA" offset="100%"></stop>
+        </linearGradient>
+        <path d="M45.7653414,17.7741193 C70.8984966,17.7741193 91.2721726,38.3685898 91.2721726,63.7741193 C91.2721726,82.080391 80.6939498,97.8887115 65.379142,105.294136 L65.3177221,105.179332 C64.6036705,105.532022 63.8009495,105.73 62.9524198,105.73 C59.9764514,105.73 57.5639524,103.294777 57.5639524,100.290777 C57.5639524,97.6574289 59.4178426,95.4611583 61.8800501,94.9592708 C72.9864616,89.0842203 80.5646829,77.3241933 80.5646829,63.7741193 C80.5646829,44.345884 64.9852854,28.5976487 45.7653414,28.5976487 C42.8100742,28.5976487 40.4115965,26.1731781 40.4115965,23.185884 C40.4115965,20.1985898 42.8100742,17.7741193 45.7653414,17.7741193 Z" id="path-5"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="a" transform="translate(-212.000000, -77.000000)">
+            <g id="Group-7" transform="translate(209.000000, 77.000000)">
+                <text id="Dinamic" font-family="SFProRounded-Heavy, SF Pro Rounded" font-size="72" font-weight="600" letter-spacing="0.423529412" fill="#FFFFFF">
+                    <tspan x="0" y="79">Dinamic</tspan>
+                </text>
+                <g id="Group" transform="translate(222.000000, 0.000000)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Completado" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <use id="Progreso" fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
